@@ -1,0 +1,13 @@
+C:\Users\gerce\source\repos\Kavak\src\bin\Debug\netcoreapp3.1\Kavak.Test.exe
+C:\Users\gerce\source\repos\Kavak\src\bin\Debug\netcoreapp3.1\Kavak.Test.deps.json
+C:\Users\gerce\source\repos\Kavak\src\bin\Debug\netcoreapp3.1\Kavak.Test.runtimeconfig.json
+C:\Users\gerce\source\repos\Kavak\src\bin\Debug\netcoreapp3.1\Kavak.Test.runtimeconfig.dev.json
+C:\Users\gerce\source\repos\Kavak\src\bin\Debug\netcoreapp3.1\Kavak.Test.dll
+C:\Users\gerce\source\repos\Kavak\src\bin\Debug\netcoreapp3.1\Kavak.Test.pdb
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.AssemblyInfoInputs.cache
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.AssemblyInfo.cs
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.csproj.CoreCompileInputs.cache
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.dll
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.pdb
+C:\Users\gerce\source\repos\Kavak\src\obj\Debug\netcoreapp3.1\Kavak.Test.genruntimeconfig.cache
